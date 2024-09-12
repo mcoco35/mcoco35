@@ -3,7 +3,7 @@
 I'm a driven Computer Science graduate with a concentration in Networks and Security, and a minor in Business Administration from Colorado State University. I am passionate about leveraging my technical skills and cybersecurity expertise to solve complex problems and contribute to impactful projects.
 
 ### 🔭 I’m currently working on...
-- **Security Certifications:** Preparing for the CompTIA PenTest+ and Certified Ethical Hacker (CEH) certifications.
+- **Security Certifications:** Preparing for the Certified Ethical Hacker (CEH).
 - **Portfolio Website:** Developing a personal portfolio website to showcase my projects and skills.
 
 ### 🌱 I’m currently learning...
