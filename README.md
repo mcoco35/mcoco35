@@ -1,9 +1,9 @@
 ## Hi there 👋 I'm Mason Coco
 
-I'm a driven Computer Science graduate with a concentration in Networks and Security, and a minor in Business Administration from Colorado State University. I am passionate about leveraging my technical skills and cybersecurity expertise to solve complex problems and contribute to impactful projects.
+I'm a driven Computer Science graduate with a concentration in Networks and Security from Colorado State University. I am a Test Engineer working to leverage my technical skills and cybersecurity expertise to solve complex problems.
 
 ### 🔭 I’m currently working on...
-- **Security Certifications:** Preparing for the Certified Ethical Hacker (CEH).
+- **Security Certifications:** Preparing for the Certified Ethical Hacker (CEH) Practical.
 - **Portfolio Website:** Developing a personal portfolio website to showcase my projects and skills.
 
 ### 🌱 I’m currently learning...
